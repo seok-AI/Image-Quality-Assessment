@@ -6,6 +6,7 @@ caption: *the pink and blue really compliment each other. like the dense color, 
 
 
 
+Validation set Prediction
 PLCC: 0.76004, SRCC: 0.75108
 Score: 0.75556
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/e0f76cbc-6138-4371-aa3d-2d140714cf75)
