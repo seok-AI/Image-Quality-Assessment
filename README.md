@@ -1,7 +1,7 @@
 # Image-Quality-Assessment
 2023 Samsung AI Challenge : Image Quality Assessment
 
-caption: [*the pink and blue really compliment each other. like the dense color, blur.*]
+caption: *the pink and blue really compliment each other. like the dense color, blur.*
 ![image](https://github.com/seok-AI/Image-Quality-Assessment/assets/85815265/e63d769d-c35d-45dc-b288-fc513e23aab5)
 
 
